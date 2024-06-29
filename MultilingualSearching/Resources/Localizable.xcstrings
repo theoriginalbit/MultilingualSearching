@@ -1,0 +1,89 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "main.noRegionSelected" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No region selected"
+          }
+        }
+      }
+    },
+    "main.showRegionPicker" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show region picker"
+          }
+        }
+      }
+    },
+    "regionPicker.groupingMenu.continents" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continents"
+          }
+        }
+      }
+    },
+    "regionPicker.groupingMenu.countryName" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Country name"
+          }
+        }
+      }
+    },
+    "regionPicker.groupingMenu.subregions" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Subregions"
+          }
+        }
+      }
+    },
+    "regionPicker.groupingMenu.title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Group by"
+          }
+        }
+      }
+    },
+    "regionPicker.sections.deviceCurrent" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Device Current"
+          }
+        }
+      }
+    },
+    "regionPicker.title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pick your region"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
